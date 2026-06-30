@@ -1,5 +1,5 @@
 """
-file_processor.py — JARVIS Universal File Processor
+file_processor.py — VORTEX Universal File Processor
 
 Supported types:
   image   → describe, ocr, resize, convert, compress, crop
