@@ -39,15 +39,6 @@ It's not just an assistant — it's an extension of your digital life.
 
 ---
 
-## ⚡ Quick Start
-
-```bash
-git clone https://github.com/FatihMakes/Mark-XXXIX-OR.git
-cd Mark-XXXIX-OR
-pip install -r requirements.txt
-playwright install
-python main.py
-```
 
 > ⚠️ **Installation Note:** To keep the repository lightweight, some OS-specific dependencies are not bundled in `requirements.txt`. If you run into a `ModuleNotFoundError`, simply install the missing package via `pip install <module_name>` for your specific system.
 
