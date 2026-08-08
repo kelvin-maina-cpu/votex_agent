@@ -1,5 +1,5 @@
 # 🤖 MARK XXXIX-OR (39)
-### The Ultimate Cross-Platform Personal AI Assistant — By FatihMakes
+### The Ultimate Cross-Platform Personal AI Assistant — By Kelvo KE
 
 > 📺 **[Watch the full setup video on YouTube](https://youtu.be/ldvDNzwnM8k)**
 
